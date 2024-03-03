@@ -27,8 +27,8 @@ flutter:
   - lib/assets/images/low.jpg
 
   fonts:
-    - family: Ojuju
+    - family: MadimiOne
       fonts:
-       - asset: lib/assets/fonts/Ojuju-Medium.ttf
-       - asset: lib/assets/fonts/Ojuju-Bold.ttf
+       - asset: lib\assets\fonts\MadimiOne-Regular.ttf
+      
      

@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
                         fontSize: 50,
                         fontWeight: FontWeight.bold,
                         letterSpacing:5,
-                        fontFamily:'Ojuju')),
+                        fontFamily:'MadimiOne')),
                 const SizedBox(height: 7),
                 const Text("APP",
                     style: TextStyle(
@@ -28,7 +28,7 @@ class HomePage extends StatelessWidget {
                         fontSize: 50,
                         fontWeight: FontWeight.w900,
                         letterSpacing:5,
-                        fontFamily:'Ojuju'),
+                        fontFamily:'MadimiOne'),
                         ),
                 const SizedBox(height: 20),
                 ElevatedButton(
