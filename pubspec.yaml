@@ -1,0 +1,34 @@
+name: adv_quiz_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - lib/assets/images/congrats.jpg
+  - lib/assets/images/high.jpg
+  - lib/assets/images/low.jpg
+
+  fonts:
+    - family: Ojuju
+      fonts:
+       - asset: lib/assets/fonts/Ojuju-Medium.ttf
+       - asset: lib/assets/fonts/Ojuju-Bold.ttf
+     
